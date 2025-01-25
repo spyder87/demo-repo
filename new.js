@@ -1,0 +1,1 @@
+alert("new new new javascript file created");
